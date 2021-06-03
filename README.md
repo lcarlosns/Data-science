@@ -29,3 +29,5 @@ Veja os tutoriais publicados:
 
 
 Projetos de data science
+
+* Deteção de Fraudes em cartões: https://bit.ly/3fNj0QB
